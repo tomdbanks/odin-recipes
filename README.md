@@ -1,1 +1,1 @@
-# odin-recipes
+Basic website written in HTML. 
